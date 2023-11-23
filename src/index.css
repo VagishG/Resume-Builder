@@ -1,0 +1,86 @@
+/* Add your enhanced CSS styles for Search.jsx here */
+.searchbar {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .SearchedItems {
+    cursor: pointer;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    transition: background-color 0.3s;
+  }
+  
+  .SearchedItems:hover {
+    background-color: #f2f2f2;
+  }
+  
+  /* You can add more styles based on your design */
+
+  
+  /* Add your enhanced CSS styles for Rest.jsx here */
+.rest {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .retrive,
+  .files {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .files button,
+  .retrive button {
+    background-color: #d9534f; /* Red color for delete buttons */
+  }
+  
+  .files button:hover,
+  .retrive button:hover {
+    background-color: #c9302c; /* Darker red on hover */
+  }
+  
+  /* You can add more styles based on your design */
+  
